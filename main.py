@@ -1,5 +1,4 @@
 from cgitb import html
-from xml.dom.minidom import Element
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
